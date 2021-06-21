@@ -1,0 +1,16 @@
+[
+    {
+        "firstName": "Mahmudul Hasan",
+        "lastName": "Tusar",
+        "gender": "Male",
+        "dob": "2003-02-26",
+        "religion": "Muslim",
+        "presentAddress": "408\/1, Kuratoli, Khilkhet, Dhaka 1229, Bangladesh",
+        "permanentAddress": "408\/1, Kuratoli, Khilkhet, Dhaka 1229, Bangladesh",
+        "phoneNumber": "+8801789653259",
+        "email": "mhtusaraiub@gmail.com",
+        "userName": "tusar30",
+        "password": "Tu1234",
+        "personalWebsite": "https:\/\/www.aiub.edu\/"
+    }
+]
